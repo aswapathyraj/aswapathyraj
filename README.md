@@ -10,13 +10,11 @@
 - **Frontend**: HTML, CSS, Tailwind CSS, JavaScript, React  
 - **Backend**: Flask, Express.js  
 - **Database**: SQLite  
-- **IoT**: ESP32, DHT22, Sensors, Solenoid Valves  
 - **Tools**: Git, VS Code, Netlify, GitHub
 
 ---
 
 ### 🚀 Projects  
-- 💧 **Smart Irrigation System** – Solar-powered, IoT-based system for farms  
 - 🍽️ **QR-Based Food Ordering App** – Contactless restaurant menu & order system  
 - 🛠️ **Camera Service Dashboard** – Device management and status tracking app
 
